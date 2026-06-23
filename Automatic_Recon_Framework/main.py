@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Automatic Recon Framework
-By Ojasva Srivastava
+By Ojasva
 
 For authorized bug bounty, CTF, and personal lab use only.
 """
