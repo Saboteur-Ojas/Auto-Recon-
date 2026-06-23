@@ -1,0 +1,8 @@
+Basic:
+python3 main.py -d example.com
+
+CTF:
+python3 main.py -d example.com --ctf
+
+Vhost:
+python3 main.py -d example.com --vhost
